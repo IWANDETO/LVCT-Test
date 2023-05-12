@@ -1,0 +1,8 @@
+1. We create a database with ID as the primary key field and records as a secondary field.
+2. Initialize a counter variable (Counter = 0)
+3. Initialize a for loop to iterate through the database (For record in database)
+4. Increment the counter(Counter = Counter + 1)
+5. Check if the current record is the third one(if counter % 3 = 0) 
+6. Increment the ID field by 5 (ID = ID + 5 ) 
+7. We then update the record in the database with the new ID value
+8. End the for loop
